@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">יומן אוכל</string>
+    <string name="hint_email">נא להקליד מייל</string>
+    <string name="hint_password">נא להקליד סיסמה</string>
+    <string name="login">התחבר</string>
+    <string name="suggest_register">אם אתם לא רשומים, הירשמו כאן</string>
+    <string name="Main">קורים כאן דברים</string>
+    <string name="suggest_reset_password">כדי לאתחל סיסמה לחצו כאן</string>
+    <string name="signup">הירשם</string>
+    <string name="suggest_already_registered">רשומים? לחצו כאן</string>
+    <string name="back_to_login">חזרה למסך התחברות</string>
+    <string name="reset_password">אתחול סיסמה</string>
+</resources>

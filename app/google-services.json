@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862138097473",
+    "firebase_url": "https://rotemapp-abcd.firebaseio.com",
+    "project_id": "rotemapp-abcd",
+    "storage_bucket": "rotemapp-abcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862138097473:android:def1015a2953648d",
+        "android_client_info": {
+          "package_name": "com.example.foodjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862138097473-plmkn2r69kmdgka6m1t37rke9acab5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTymazhVXR-V2DcDoWQg5wfjczpdU-Q6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862138097473-plmkn2r69kmdgka6m1t37rke9acab5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

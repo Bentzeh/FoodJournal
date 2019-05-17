@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodJournal</string>
+    <string name="Main">im doing stuff</string>
+    <string name="login">Log In</string>
+    <string name="hint_email">enter your email</string>
+    <string name="hint_password">enter your password</string>
+    <string name="suggest_register">if your not registered, click here</string>
+    <string name="suggest_reset_password">to reset your password, click here</string>
+    <string name="signup">Sign Up</string>
+    <string name="suggest_already_registered">already registered? click here to log in</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">back to login, click here</string>
+</resources>
